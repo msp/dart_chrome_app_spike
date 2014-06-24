@@ -1,0 +1,7 @@
+name: dart_chrome_app_spike
+description: A sample Chrome packaged application
+dependencies:
+  chrome: any
+  stagexl: any
+transformers:
+- chrome
